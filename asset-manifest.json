@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/uevidanueva/static/css/main.62d3213f.css",
+    "main.js": "/uevidanueva/static/js/main.8b5ca872.js",
+    "static/js/787.eb6311e7.chunk.js": "/uevidanueva/static/js/787.eb6311e7.chunk.js",
+    "index.html": "/uevidanueva/index.html",
+    "main.62d3213f.css.map": "/uevidanueva/static/css/main.62d3213f.css.map",
+    "main.8b5ca872.js.map": "/uevidanueva/static/js/main.8b5ca872.js.map",
+    "787.eb6311e7.chunk.js.map": "/uevidanueva/static/js/787.eb6311e7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.62d3213f.css",
+    "static/js/main.8b5ca872.js"
+  ]
+}
